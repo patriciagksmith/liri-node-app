@@ -139,7 +139,7 @@ var pick = function(caseData, functionData) {
   }
 };
 
-// Function which takes in command line arguments and executes correct function accordigly
+// Function which takes in command line arguments and executes correct function accordingly
 var runThis = function(argOne, argTwo) {
   pick(argOne, argTwo);
 };

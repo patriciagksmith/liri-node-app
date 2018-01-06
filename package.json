@@ -1,21 +1,26 @@
 {
   "name": "package.json",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "liri homework",
+  "main": "keys.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dani4554/Liri.git"
+    "url": "git+https://github.com/patriciagksmith/liri-node-app.git"
   },
-  "author": "",
+  "author": "Patty Smith",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dani4554/Liri/issues"
+    "url": "https://github.com/patriciagksmith/liri-node-app/issues"
   },
-  "homepage": "https://github.com/Dani4554/Liri#readme",
+  "homepage": "https://github.com/patriciagksmith/liri-node-app#readme",
   "dependencies": {
     "node-spotify-api": "^1.0.7",
     "request": "^2.83.0",
