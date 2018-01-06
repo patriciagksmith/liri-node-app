@@ -1,15 +1,11 @@
-console.log("Keys loaded");
+console.log("this is loaded");
 
-// Get API credentials by following these steps:
-// Step One: https://apps.twitter.com/app/new
-// Step Two: Use http:// for all URLs
-// Step Three: Then go to "Keys and Access Tokens" to get credentials for below
-// Step Four: Then click the button below on that page to create an access token
+
 var twitterKeys = {
-  consumer_key: "SZzsigw3iqE0pSADBUJkENCab",
-  consumer_secret: "AMw4tYFP7an0lIul49C21aS9fk2cWZTGS8XVE9bjb2JFOlNa36",
-  access_token_key: "2722037155-UARaU6pdJvvjerc1jKNuZXxprSnk4bPlbIHqY81",
-  access_token_secret: "wnpv3qmcRgT4tBLvzFEnPAqU9ih2fKkLtbE95ZIFXAaQo"
+  consumer_key: "xA9VFzWHFU8ibJbYnOW2OBHAk",
+  consumer_secret: "LUO09dEz7qqYy9JqE0PRsd7wU3Pf59hex548XbM9zGL0Nvpiev",
+  access_token_key: "947493941301129218-J7xXhVjoWs6hiD238sOuGjwVInGs7UC",
+  access_token_secret: "vMjtIy0T7WN36hPLyMWYB1BZiz4O5C1HCIyUZ0fN0xQn7"
 };
 
 module.exports = twitterKeys;

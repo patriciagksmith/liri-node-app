@@ -17,8 +17,8 @@ var fs = require("fs");
 
 // Initialize the spotify API client using our client id and secret
 var spotify = new Spotify({
-  id: "34e84d93de6a4650815e5420e0361fd3",
-  secret: "5162cd8b5cf940f48702dffe096c2acb"
+  id: "6bb7d0b39fcf426e857f29fbd63f8369",
+  secret: "364de06f7b9a4705bbe55e19b08004ef"
 });
 
 // FUNCTIONS
